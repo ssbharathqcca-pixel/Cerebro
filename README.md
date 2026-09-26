@@ -33,3 +33,4 @@ verified artifact / Git / test / runtime / primary source
 | `AGENTS.md` | Lean agent operating rules |
 | `ChatGPT-Sync.md` | Synchronization protocol |
 | `KNOWLEDGE-SYSTEM.md` | Architecture audit and consolidation plan |
+| `SYNC-STATUS.md` | Verifiable cross-system refresh receipts |
